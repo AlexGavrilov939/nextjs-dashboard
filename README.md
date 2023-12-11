@@ -2,6 +2,11 @@
 
 Next.js Dashboard is a cutting-edge solution for rapidly developing sophisticated web dashboards. Built on the Next.js framework, it seamlessly combines reactivity, server-side rendering, and responsive design to deliver an unparalleled user experience.
 
+**Try it:**
+- **URL:** https://nextjs-dashboard-wheat-delta-84.vercel.app/
+- **login:** admin
+- **password:** admin
+
 **Key Highlights:**
 - **Performance**: Enjoy the benefits of Server-Side Rendering for optimal SEO and fast initial page loads.
 - **Flexibility**: Customize layouts, styles, and components effortlessly to match your brand and specific requirements.
