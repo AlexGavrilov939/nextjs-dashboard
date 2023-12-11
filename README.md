@@ -13,8 +13,8 @@ A sleek and responsive dashboard template built with Next.js, designed to stream
 ## Quick Start
 
 1. Clone the repository.
-2. Install dependencies with `npm install`.
-3. Run the development server with `npm run dev`.
+2. Install dependencies with `yarn install`.
+3. Run the development server with `yarn run dev`.
 4. Customize and extend the dashboard to meet your specific requirements.
 
 For detailed documentation and examples, visit [docs](https://nextjs.org/docs).
